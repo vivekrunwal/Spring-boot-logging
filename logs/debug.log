@@ -1,0 +1,14 @@
+2022-07-07 00:38:40 [restartedMain] INFO  c.v.s.SpringBootLoggingApplication -
+                Starting SpringBootLoggingApplication using Java 11.0.15 on VivekRunwalMac.local with PID 90288 (/Users/VivekRunwal/Documents/Spring Boot/Spring-boot-logging/target/classes started by VivekRunwal in /Users/VivekRunwal/Documents/Spring Boot/Spring-boot-logging)
+2022-07-07 00:38:40 [restartedMain] DEBUG c.v.s.SpringBootLoggingApplication -
+                Running with Spring Boot v2.7.1, Spring v5.3.21
+2022-07-07 00:38:40 [restartedMain] INFO  c.v.s.SpringBootLoggingApplication -
+                No active profile set, falling back to 1 default profile: "default"
+2022-07-07 00:38:42 [restartedMain] INFO  c.v.s.SpringBootLoggingApplication -
+                Started SpringBootLoggingApplication in 1.816 seconds (JVM running for 2.87)
+2022-07-07 00:38:58 [http-nio-8080-exec-5] DEBUG c.v.s.SpringBootLoggingApplication -
+                Request vivek
+2022-07-07 00:38:58 [http-nio-8080-exec-5] DEBUG c.v.s.SpringBootLoggingApplication -
+                Response Hi vivek Welcome to Uni 
+2022-07-07 00:39:07 [http-nio-8080-exec-9] DEBUG c.v.s.SpringBootLoggingApplication -
+                Request test
